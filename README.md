@@ -1,1 +1,1 @@
-# BK.Linux.
+# Huong dan Git co ban
